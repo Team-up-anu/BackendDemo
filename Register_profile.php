@@ -37,7 +37,7 @@
 		</div>
 		<div data-role="content">
 		<p><span class="error">* required</span></p>
-		<form action="/demo2/register.php" method="post">
+		<form action="/demo/register.php" method="post">
 		<div data-role="fieldcontain">
 			<label for="account">Account:</label>
 			<input type="text" name="account" id="account">
